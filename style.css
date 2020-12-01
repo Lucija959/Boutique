@@ -6,3 +6,7 @@ li
 {
 list-style-type: none;
 }
+body{
+    background-color: rgb(235, 220, 248);
+}
+input {color: red}
